@@ -1,4 +1,4 @@
-provider = "aws" {
+provider "aws" {
     profile = "use-1"
     region = "us-east-1"
 }
